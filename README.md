@@ -13,6 +13,3 @@
 
 Postman is used to describe api.
 
-Login:`perpeeck.for.postman@gmail.com`
-
-Password: `8j(J*J&H9j8(`
